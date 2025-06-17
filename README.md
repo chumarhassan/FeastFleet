@@ -57,7 +57,7 @@ This is a **group project** developed by:
 
 ### 1. Clone the Repository
 
-```
+
 git clone https://github.com/yourusername/feastfleet.git
 cd feastfleet
 2. Setup Backend
