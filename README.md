@@ -57,11 +57,13 @@ This is a **group project** developed by:
 
 ### 1. Clone the Repository
 
-
+```bash
 git clone https://github.com/yourusername/feastfleet.git
 cd feastfleet
 2. Setup Backend
-
+bash
+Copy
+Edit
 cd backend
 npm install
 Create a .env file and add:
@@ -76,13 +78,13 @@ nodemon index.js
 Backend runs at: http://localhost:5000
 
 3. Setup Frontend
-
 cd frontend
 npm install
 npm start
 Frontend runs at: http://localhost:3000
 
 📁 Folder Structure (Frontend)
+
 frontend/
 │
 ├── src/
@@ -184,3 +186,5 @@ For any inquiries, feel free to reach out to the developers:
 Zubaria Sajjad – zubariasajjad70@gmail.com
 
 Umar Hassan – chumarhassan999@gmail.com
+
+
