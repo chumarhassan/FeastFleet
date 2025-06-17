@@ -61,9 +61,6 @@ This is a **group project** developed by:
 git clone https://github.com/yourusername/feastfleet.git
 cd feastfleet
 2. Setup Backend
-bash
-Copy
-Edit
 cd backend
 npm install
 Create a .env file and add:
@@ -187,4 +184,4 @@ Zubaria Sajjad – zubariasajjad70@gmail.com
 
 Umar Hassan – chumarhassan999@gmail.com
 
-
+---
